@@ -3,3 +3,5 @@
 ## これからプルリクエストをします。
 ### まだまだGitHubになれていません
 #### edit-work branch です。codeで編集しています。
+## ThibkPad で編集しました。
+checkout edit-eork を実行しました。
